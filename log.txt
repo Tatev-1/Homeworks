@@ -1,0 +1,4 @@
+2020-12-25 22:27:59.916368::INFO::+ 2 3::5.0
+2020-12-25 22:28:10.163883::INFO::* -9 -4::36.0
+2020-12-25 22:28:19.726396::ERROR::This is not a basic mathematical operation::k l k
+2020-12-25 22:28:31.026412::ERROR::Wrong operands::* 5 ,
